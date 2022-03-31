@@ -1,0 +1,35 @@
+Body {
+    background-color: #ffb200;
+    background-image: url("https://wallpapercave.com/uwp/uwp135184.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+
+.titulo {
+    color: #502274;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 65px;
+}
+
+.lista {
+    color: rgb(0, 0, 0)
+}
+
+.imagem {
+    border-radius: 50px;
+}
+
+li {
+    height: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+}
